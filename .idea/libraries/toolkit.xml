@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="toolkit">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/toolkit" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/toolkit" recursive="false" />
+  </library>
+</component>
