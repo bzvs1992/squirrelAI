@@ -18,8 +18,8 @@ public class SquirrelAiRobot {
     private static String TuLing_API_URL = "http://openapi.tuling123.com/openapi/api/v2";
 
     private static String ReqType = "0";//输入类型:0-文本(默认)、1-图片、2-音频
-    private static String TuLingapiKey = "b7f5a870a15b4958852166350741b6b7";
-    private static String TuLingUserId = "268996";
+    private static String TuLingapiKey = "";
+    private static String TuLingUserId = "";
 
     private static String StrJson1 = "{\"reqType\":";
     private static String StrJson2 = ",\"perception\": {\"inputText\": {\"text\": \"";
