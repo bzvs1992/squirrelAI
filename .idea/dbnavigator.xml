@@ -23,16 +23,20 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes />
+    <loaded-nodes>
+      <connection connection-id="bf834321-bb66-4062-b04f-38b2f0296ce9">
+        <schema name="main" object-types="table, view" />
+      </connection>
+    </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="bf834321-bb66-4062-b04f-38b2f0296ce9">
-      <console name="Connection" type="STANDARD" schema="main" session="Main"><![CDATA[select * from message;
+      <console name="Connection" type="STANDARD" schema="main" session="Main">select * from message;
 select * from user;
 
 --清空表数据：
 delete from message; 
-delete from user;]]></console>
+delete from user;</console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
