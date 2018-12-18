@@ -584,8 +584,8 @@ public class WechatApp {
                          * 如果判断为白名单列表，那么该用户的消息回复则通过人工；否则通过机器人回复。
                          */
                         String ReplyMessage = "";// ReplyMessage 回复好友消息
-//                        if(name.equals(WhitelistEnum.胡雯.getNameList()) || name.equals(WhitelistEnum.张益斌.getNameList())){
-//                        if (name.equals(WhitelistEnum.胡雯.getNameList())) {
+//                        if(name.equals(WhitelistEnum.好友备注名.getNameList()) || name.equals(WhitelistEnum.张益斌.getNameList())){
+//                        if (name.equals(WhitelistEnum.好友备注名.getNameList())) {
 //                            ReplyMessage = PersonalReply.getReplyMessage(); //人工回复消息接口
 //                        } else {
 //                            ReplyMessage = Robot.TuLingRobot(receiveMessages);//图灵机器人接口

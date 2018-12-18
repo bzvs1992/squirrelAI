@@ -4,7 +4,12 @@
     <list default="true" id="d000febd-4c7b-4b3e-8591-6ee881864a48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SquirrelAI.db" beforeDir="false" afterPath="$PROJECT_DIR$/SquirrelAI.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/squirrelAI/com/zhangyibin/aifunction/SquirrelAiRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/squirrelAI/com/zhangyibin/aifunction/SquirrelAiRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/squirrelAi/test/RobotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/squirrelAi/test/RobotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/temp.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,13 +18,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/squirrelAI$UseSquirrelAi.ic" NAME="UseSquirrelAi Coverage Results" MODIFIED="1545104476179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.squirrelAi.use.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="535">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/squirrelAi/test/RobotTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="42" />
+              <folding>
+                <element signature="e#2475#2483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/StartWechatApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -33,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
-              <first_editor relative-caret-position="177">
+              <first_editor relative-caret-position="525">
                 <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
               </first_editor>
               <second_editor />
@@ -45,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="db://bf834321-bb66-4062-b04f-38b2f0296ce9/consoles/Connection">
           <provider selected="true" editor-type-id="0.CONSOLE">
-            <state line="0" column="0" selection-start="0" selection-end="22" vertical-scroll-proportion="-0.0">
+            <state line="5" column="17" selection-start="92" selection-end="92" vertical-scroll-proportion="0.18248175">
               <folding />
             </state>
           </provider>
@@ -68,9 +108,10 @@
         <option value="$PROJECT_DIR$/src/com/zhangyibin/application/specialusers/SpecialUsersEnum.java" />
         <option value="$PROJECT_DIR$/src/com/zhangyibin/application/StartWechatApp.java" />
         <option value="$PROJECT_DIR$/src/com/zhangyibin/foundation/databaseservice/InsertService.java" />
-        <option value="$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java" />
-        <option value="$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java" />
+        <option value="$PROJECT_DIR$/src/com/squirrelAi/test/RobotTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java" />
       </list>
     </option>
   </component>
@@ -116,6 +157,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="squirrelAi" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squirrelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="squirrelAi" type="462c0819:PsiDirectoryNode" />
               <item name="use" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,6 +180,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
+              <item name="aifunction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squirrelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -139,7 +196,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="specialusers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squirrelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="speciauserslist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squirrelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
               <item name="foundation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squirrelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="databaseservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squirrelAI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangyibin" type="462c0819:PsiDirectoryNode" />
+              <item name="foundation" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="squirrelAI" type="b2602c69:ProjectViewProjectNode" />
@@ -168,7 +261,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545036220682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545127044894" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -186,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseSquirrelAi">
+  <component name="RunManager" selected="Application.RobotTest">
     <configuration name="OutputEnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.squirrelAi.test.OutputEnumTest" />
       <module name="squirrelAI" />
@@ -241,9 +334,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RobotTest" />
         <item itemvalue="Application.UseSquirrelAi" />
         <item itemvalue="Application.WechatAppTest" />
-        <item itemvalue="Application.RobotTest" />
         <item itemvalue="Application.OutputEnumTest" />
       </list>
     </recent_temporary>
@@ -263,6 +356,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -270,18 +364,18 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.28183118" />
       <window_info id="DB Browser" order="7" weight="0.3297568" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7106383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.9574468" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="DB Execution Console" order="9" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="DB Execution Console" order="9" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Statistic" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -293,6 +387,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.70386267" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -307,27 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/squirrelAi/test/RobotTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/specialusers/SpecialUsersEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/speciauserslist/SpecialUsersList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -387,31 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1085">
-          <caret line="594" column="36" selection-start-line="594" selection-start-column="24" selection-end-line="594" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/squirrelAi/test/WechatAppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/StartWechatApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-958">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -422,20 +475,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="db://bf834321-bb66-4062-b04f-38b2f0296ce9/consoles/Connection">
-      <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="0" column="0" selection-start="0" selection-end="22" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
-          <first_editor relative-caret-position="177">
+          <first_editor relative-caret-position="525">
             <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/aifunction/SquirrelAiRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/squirrelAi/test/RobotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/foundation/wechatapp/WechatApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="42" />
+          <folding>
+            <element signature="e#2475#2483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/speciauserslist/SpecialUsersList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/specialusers/SpecialUsersEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangyibin/application/StartWechatApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://bf834321-bb66-4062-b04f-38b2f0296ce9/consoles/Connection">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="5" column="17" selection-start="92" selection-end="92" vertical-scroll-proportion="0.18248175">
+          <folding />
         </state>
       </provider>
     </entry>
